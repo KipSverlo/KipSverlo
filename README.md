@@ -1,57 +1,54 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,100:1a1b26&height=200&section=header&text=Arkadiy%20(KipSverlo)&fontSize=50&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
-
 <div align="center">
-
-# Welcome to Arkadiy's GitHub
-
-### Python Developer · Telegram Bots · Mini Apps · Web
-
-[![Telegram](https://img.shields.io/badge/Telegram-@pipiskus228-blue?style=for-the-badge&logo=telegram)](https://t.me/pipiskus228)
-[![Email](https://img.shields.io/badge/Email-ovkirill75@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ovkirill75@gmail.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,100:1a1b26&height=200&section=header&text=Welcome%20to%20Arkadiy's%20GitHub&fontSize=40&fontColor=7aa2f7&animation=twinkling" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Python+Developer;Telegram+Bots+%26+Mini+Apps;FastAPI+%26+Aiogram;Arch+Linux+Enjoyer" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://t.me/pipiskus228"><img src="https://img.shields.io/badge/Telegram-@pipiskus228-1a1b26?style=for-the-badge&logo=telegram&logoColor=7aa2f7&labelColor=0a0a0c" /></a>
+  <a href="mailto:ovkirill75@gmail.com"><img src="https://img.shields.io/badge/Email-ovkirill75@gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=e0af68&labelColor=0a0a0c" /></a>
 </div>
 
-## About Me
+<br/>
 
-I'm a Python developer focused on practical products for people and small businesses. I build Telegram bots with **aiogram**, Telegram Mini Apps and backends with **FastAPI**, and responsive websites with vanilla frontend technologies.
+## 👨‍💻 About Me
+Привет! Я Python-разработчик, создающий практичные продукты для людей и малого бизнеса. Пишу Telegram-ботов (aiogram), Telegram Mini Apps (FastAPI) и адаптивные сайты. 
 
-I'm currently in my third year of study, while already delivering commercial projects for real clients. I love **Arch Linux**, clean interfaces, thoughtful automation, and the creative flow of vibe coding.
+Учусь на 3 курсе, но уже делаю коммерческие проекты. Люблю Arch Linux, чистые интерфейсы, продуманную автоматизацию и вайб-кодинг.
 
-- Building useful bots, Mini Apps, APIs, and websites
-- Turning business routines into simple automated workflows
-- Growing as a full-stack developer through real-world projects
-- Open to freelance work and interesting collaborations
+- 🚀 Создаю ботов, Mini Apps, API и сайты.
+- ⚙️ Превращаю бизнес-рутину в простые автоматизированные процессы.
+- 🌱 Расту как Full-Stack разработчик через реальные проекты.
+- 💼 Открыт к фрилансу и интересным коллаборациям.
 
-## Technologies
+<br/>
 
+## 🛠️ Technologies
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-
+  <img src="https://img.shields.io/badge/Python-0a0a0c?style=for-the-badge&logo=python&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0a0c?style=for-the-badge&logo=fastapi&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Aiogram-0a0a0c?style=for-the-badge&logo=telegram&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/SQLite-0a0a0c?style=for-the-badge&logo=sqlite&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/HTML5-0a0a0c?style=for-the-badge&logo=html5&logoColor=e0af68" />
+  <img src="https://img.shields.io/badge/CSS3-0a0a0c?style=for-the-badge&logo=css3&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0c?style=for-the-badge&logo=javascript&logoColor=e0af68" />
+  <img src="https://img.shields.io/badge/Git-0a0a0c?style=for-the-badge&logo=git&logoColor=bb9af7" />
+  <img src="https://img.shields.io/badge/Arch_Linux-0a0a0c?style=for-the-badge&logo=arch-linux&logoColor=7aa2f7" />
 </div>
 
-## Statistics
+<br/>
 
+## 📊 Statistics
 <div align="center">
-
-![Arkadiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KipSverlo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KipSverlo&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KipSverlo&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KipSverlo&theme=tokyonight&hide_border=true&background=0a0a0c" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### Let's build something useful.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:0a0a0c&height=100&section=footer" width="100%"/>
 </div>

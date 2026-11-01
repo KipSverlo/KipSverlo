@@ -1,13 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,100:1a1b26&height=200&section=header&text=Arkadiy%20(KipSverlo)&fontSize=50&fontColor=7aa2f7&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 # Welcome to Arkadiy's GitHub
 
-![Banner](assets/banner.jpg)
-
 ### Python Developer · Telegram Bots · Mini Apps · Web
 
-[![Telegram](https://img.shields.io/badge/Telegram-@pipiskus228-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pipiskus228)
-[![Email](https://img.shields.io/badge/Email-ovkirill75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovkirill75@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@pipiskus228-blue?style=for-the-badge&logo=telegram)](https://t.me/pipiskus228)
+[![Email](https://img.shields.io/badge/Email-ovkirill75@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ovkirill75@gmail.com)
 
 </div>
 

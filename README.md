@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Mori Banner" />
+  <img src="assets/banner.jpg" width="80%" alt="Mori Banner" />
 
   <br/><br/>
 
@@ -16,15 +16,11 @@
 <br/>
 
 ## About Me
-
-I am a Python developer focused on practical products for people and small businesses. I build Telegram bots with aiogram, Telegram Mini Apps with FastAPI, and responsive websites with vanilla frontend technologies.
-
-I am currently in my third year of study, while already delivering commercial projects for real clients. I love Arch Linux, clean interfaces, thoughtful automation, and the creative flow of vibe coding.
-
-- Building useful bots, Mini Apps, APIs, and websites
-- Turning business routines into simple automated workflows
-- Growing as a full-stack developer through real-world projects
-- Open to freelance work and interesting collaborations
+geak
+Building useful bots, Mini Apps, APIs, and websites
+Turning business routines into simple automated workflows
+Growing as a full-stack developer through real-world projects
+Open to freelance work and interesting collaborations
 
 <br/>
 

@@ -13,7 +13,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <p><b>Kip Sverlo</b> - a college graduate with a major in Information Systems and Programming.</p>
       <p>I am a <b>Python developer</b>. I create Telegram bots and parsers. I'm an <b>Arch user</b> and I know <b>Bash</b>. I'm constantly improving my skills and understanding of real-world problems.</p>
       <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.</p>

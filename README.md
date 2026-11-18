@@ -39,6 +39,7 @@
     </td>
   </tr>
 </table>
+
 ## Technologies
 
 <div align="center">

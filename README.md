@@ -12,12 +12,12 @@
 
 <h2 align="center">About Me</h2>
 
-<table border="0" cellpadding="0" cellspacing="0" width="0%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" valign="top" style="font-size: 40px; line-height: 1.6; padding-right: 20px;">
-      <p><b>Kip Sverlo</b> - a college graduate with a major in Information Systems and Programming.</p>
+    <td width="55%" valign="top" style="font-size: 16px; line-height: 1.6; padding-right: 20px;">
+      <p><b>Kip Sverlo</b> - a college student with a major in Information Systems and Programming.</p>
       <p>I am a <b>Python developer</b>. I create Telegram bots and parsers. I'm an <b>Arch user</b> and I know <b>Bash</b>. I'm constantly improving my skills and understanding of real-world problems.</p>
-      <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.</p>
+      <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.I build tools that solve small, real problems</p>
     </td>
   </tr>
 </table>
@@ -26,7 +26,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Aiogram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />

@@ -12,9 +12,9 @@
 
 <h2 align="center">About Me</h2>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="0%">
   <tr>
-    <td width="55%" valign="top" style="font-size: 16px; line-height: 1.6; padding-right: 20px;">
+    <td width="55%" valign="top" style="font-size: 40px; line-height: 1.6; padding-right: 20px;">
       <p><b>Kip Sverlo</b> - a college graduate with a major in Information Systems and Programming.</p>
       <p>I am a <b>Python developer</b>. I create Telegram bots and parsers. I'm an <b>Arch user</b> and I know <b>Bash</b>. I'm constantly improving my skills and understanding of real-world problems.</p>
       <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.</p>

@@ -19,7 +19,7 @@
       <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.</p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 20px; line-height: 1.2;">
+      <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 60px; line-height: 1.2;">
 ⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⢠⡆⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠈⣷⣄⠀⠀⠀⠀⣾⣷⠀⠀⠀⠀⣠⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢿⠿⠃⠀⠀⠀⠉⠉⠁⠀⠀⠐⠿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀

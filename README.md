@@ -20,24 +20,23 @@
       <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.</p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 12px; line-height: 1.2; font-family: 'Courier New', monospace;">
-MMMMMMMMMMMMMMMNV$$$VNMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMM$.  :$$V$I.  :FMMMMMMMMMMMMMMM
-MMMMMMMMN: *NMMMMMMMMMMMV  IMMMMMMMMMMMMM
-MMMMMMM* *MMMMMMMMMMMMMMMMN. FMMMMMMMMMMM
-MMMMMM. NI           :MMMMMMI VMMMMMMMMMM
-MMMMM: N$      I$      NMMMMM$ FMMMMMMMMM
-MMMMV VMMMNNNNMM:      *MMMMMM .MMMMMMMMM
-MMMM$ NMMMMMMMM: .MN.   $MMMMM$ FMMMMMMMM
-MMMMI.MMMMMMMM.   MMM.   MMMMMF VMMMMMMMM
-MMMM$ NMMMMMM. :NMMMMM:  :MMMM* NMMMMMMMM
-MMMMN *MMMMM: VMMMMMMMM*  $MMN :MMMMMMMMM
-MMMMMV VMMMMMMMMMMMMMMMM$  NM: NMMMMMMMMM
-MMMMMMI IMMMMMMMMMMMMMMMMN$M: MMMMMMMMMMM
-MMMMMMMF..FMMMMMMMMMMMMMMM$ :MMMMMMMMMMMM
-MMMMMMMMMV  IFMMMMMMMMMV: :NMMMMMMMMMMMMM
-MMMMMMMMMMMM$:   ..    *FMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 12px; line-height: 1.2; font-family: 'Courier New', monospace;">               
+               .*III*.                   
+           INMMFII*I$NMMF:               
+        .FMV.           *MM$             
+       VMV                .NM:           
+      NM.$MMMMMMMMMMMF      $M*          
+     FM.IMMMMMM$IMMMMMM.     IM:         
+    *M*   ....  FMMMMMMV      MN         
+    IM.        FMN .NMMMI     IM:        
+    $N        NMMM   NMMM     :M*        
+    IM.      NMF.     FMMF    VM.        
+    .MV     FM*        VMMI  .MF         
+     *M*                IMM. FM.         
+      $M$                .I FM           
+       :NN:               IMF            
+         *MM$:         *FMF.             
+            IFMMMNNMMMMV:                
       </pre>
     </td>
   </tr>

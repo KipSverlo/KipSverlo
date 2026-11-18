@@ -21,34 +21,28 @@
     </td>
     <td width="45%" align="center" valign="middle">
       <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 12px; line-height: 1.2; font-family: 'Courier New', monospace;">
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX++++++++XXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==.            .+XXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:.   -+++_XX__+=   :+XXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX:  -_XXXXXXXXXXXXXX_-  :XXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXX=  -XXXXXXXXXXXXXXXXXXXX.  +X
-XXXXXXXXXXXXXXXXXXXXXXXXXX= ._XXXXXXXXXX++XXXXXXXXXX:  _
-XXXXXXXX  :--------------- +XXXXXXXXXXX.  .XXXXXXXXX_:  
-XXXXXXXX+-                _XXXXXXXXXXX:    XXXXXXXXXX=  
-XXXXXXXXXXXX.  :_XXXXXXXXXXXXXXXXXXXXXX  =XXXXXXXXXXXX: 
-XXXXXXXXXXXXX_:   _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
-XXXXXXXXXXXXXXXX-   -XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
-XXXXXXXXXXXXXXXXXX=.  =XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
-XXXXXXXXXXXXXXXXXXXX:  -XXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
-XXXXXXXXXXXXXXXXXXXXX  -XXXXXXXXXXXXXXXXXXXXXXXXXXXXX=  
-XXXXXXXXXXXXXXXXXXXX-  =XXXXXXXXXXXXXXXXXXXXXXXXXXXXX=  
-XXXXXXXXXXXXXXXXXXX_. :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX= +
-XXXXXXXXXXXXXXXXXXX-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_. _
-XXXXXXXXXXXXXXXXXXX- .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_  x
-XXXXXXXXXXXXXXXXXX+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX= +X
-XXXXXXXXXXXXXXXXXX- +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  +X
-XXXXXXXXXXXXXXXXX= -XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX= -XX
-XXXXXXXXXXXXXXXXX  =XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXX
-XXXXXXXXXXXXXXXX. :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_ XXXX
-XXXXXXXXXXXXXXX= .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX: XXXX
-XXXXXXXXXXXXXXX: =XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=  XXXX⠀⠀⠀⠀
+█████████████████████████████████████████
+█████████████████████████████████████████
+█████████████████████████████████████████
+███████████████▓▒▒▒▒▓████████████████████
+███████████▒░  ░▒▒▒▒▒░  ░▓███████████████
+█████████░ ░▓███████████▓  ▒█████████████
+███████░ ░█████████████████  ▓███████████
+██████  ▓▒           ░██████▒ ▓██████████
+█████░ ▓▒      ▒▒      ██████▒ ▓█████████
+████▓ ▓███▓▓▓███░      ░██████  █████████
+████▒ █████████░  ██    ▒█████▒ ▓████████
+████▒ ████████    ███░   █████▓ ▓████████
+████▒ ███████░ ░██████░  ░████░ ▓████████
+████▓ ░█████░ ▓████████▒  ▒███ ░█████████
+█████▓ ▓████████████████▒  ▓█░ ██████████
+██████▒ ▒█████████████████▒█░ ███████████
+███████▓  ▓███████████████▒ ░████████████
+█████████▓  ▒▓█████████▓░ ░██████████████
+████████████▒░         ░▓████████████████
+█████████████████████████████████████████
+█████████████████████████████████████████
+█████████████████████████████████████████⠀⠀⠀⠀⠀⠀
       </pre>
     </td>
   </tr>

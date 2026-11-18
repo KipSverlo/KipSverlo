@@ -21,28 +21,28 @@
     </td>
     <td width="45%" align="center" valign="middle">
       <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 12px; line-height: 1.2; font-family: 'Courier New', monospace;">
-█████████████████████████████████████████
-█████████████████████████████████████████
-█████████████████████████████████████████
-███████████████▓▒▒▒▒▓████████████████████
-███████████▒░  ░▒▒▒▒▒░  ░▓███████████████
-█████████░ ░▓███████████▓  ▒█████████████
-███████░ ░█████████████████  ▓███████████
-██████  ▓▒           ░██████▒ ▓██████████
-█████░ ▓▒      ▒▒      ██████▒ ▓█████████
-████▓ ▓███▓▓▓███░      ░██████  █████████
-████▒ █████████░  ██    ▒█████▒ ▓████████
-████▒ ████████    ███░   █████▓ ▓████████
-████▒ ███████░ ░██████░  ░████░ ▓████████
-████▓ ░█████░ ▓████████▒  ▒███ ░█████████
-█████▓ ▓████████████████▒  ▓█░ ██████████
-██████▒ ▒█████████████████▒█░ ███████████
-███████▓  ▓███████████████▒ ░████████████
-█████████▓  ▒▓█████████▓░ ░██████████████
-████████████▒░         ░▓████████████████
-█████████████████████████████████████████
-█████████████████████████████████████████
-█████████████████████████████████████████⠀⠀⠀⠀⠀⠀
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMNV$$$VNMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMM$.  :$$V$I.  :FMMMMMMMMMMMMMMM
+MMMMMMMMN: *NMMMMMMMMMMMV  IMMMMMMMMMMMMM
+MMMMMMM* *MMMMMMMMMMMMMMMMN. FMMMMMMMMMMM
+MMMMMM. NI           :MMMMMMI VMMMMMMMMMM
+MMMMM: N$      I$      NMMMMM$ FMMMMMMMMM
+MMMMV VMMMNNNNMM:      *MMMMMM .MMMMMMMMM
+MMMM$ NMMMMMMMM: .MN.   $MMMMM$ FMMMMMMMM
+MMMMI.MMMMMMMM.   MMM.   MMMMMF VMMMMMMMM
+MMMM$ NMMMMMM. :NMMMMM:  :MMMM* NMMMMMMMM
+MMMMN *MMMMM: VMMMMMMMM*  $MMN :MMMMMMMMM
+MMMMMV VMMMMMMMMMMMMMMMM$  NM: NMMMMMMMMM
+MMMMMMI IMMMMMMMMMMMMMMMMN$M: MMMMMMMMMMM
+MMMMMMMF..FMMMMMMMMMMMMMMM$ :MMMMMMMMMMMM
+MMMMMMMMMV  IFMMMMMMMMMV: :NMMMMMMMMMMMMM
+MMMMMMMMMMMM$:   ..    *FMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM⠀⠀⠀
       </pre>
     </td>
   </tr>

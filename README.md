@@ -21,34 +21,34 @@
     </td>
     <td width="45%" align="center" valign="middle">
       <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 12px; line-height: 1.2; font-family: 'Courier New', monospace;">
-                                                        
-                                                        
-                                                        
-                                         :_             
-                                 .+XXXXXXXXXXXXX_       
-                               =XXXXX=.      .+XXXX.    
-                             +XX+                +XXX   
-                           :XX:                    XXX. 
-                          -X+           ..          _XX 
-        XXX=====+=+=+_+==_X:           XXX_          _X+
-         XXXXXXXXXXXXXXXXX            +XXXX           XX
-           .XXX+                       XX=            XX
-              _XXX                                    XX
-                =XXX=                                 XX
-                  :XXX-                               XX
-                    =XX                               XX
-                     XX:                              XX
-                    =XX                              :XX
-                    XX+                              -X+
-                   -XX                               XX:
-                   XX_                               XX 
-                  :XX                               _X. 
-                  _X:                               XX  
-                 :X_                               -X=  
-                 XX                                XX   
-                _X=                                X
-               :XX                                XX
-               XX-                                X⠀⠀⠀
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX++++++++XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==.            .+XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:.   -+++_XX__+=   :+XXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX:  -_XXXXXXXXXXXXXX_-  :XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXX=  -XXXXXXXXXXXXXXXXXXXX.  +X
+XXXXXXXXXXXXXXXXXXXXXXXXXX= ._XXXXXXXXXX++XXXXXXXXXX:  _
+XXXXXXXX  :--------------- +XXXXXXXXXXX.  .XXXXXXXXX_:  
+XXXXXXXX+-                _XXXXXXXXXXX:    XXXXXXXXXX=  
+XXXXXXXXXXXX.  :_XXXXXXXXXXXXXXXXXXXXXX  =XXXXXXXXXXXX: 
+XXXXXXXXXXXXX_:   _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
+XXXXXXXXXXXXXXXX-   -XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
+XXXXXXXXXXXXXXXXXX=.  =XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
+XXXXXXXXXXXXXXXXXXXX:  -XXXXXXXXXXXXXXXXXXXXXXXXXXXXX+. 
+XXXXXXXXXXXXXXXXXXXXX  -XXXXXXXXXXXXXXXXXXXXXXXXXXXXX=  
+XXXXXXXXXXXXXXXXXXXX-  =XXXXXXXXXXXXXXXXXXXXXXXXXXXXX=  
+XXXXXXXXXXXXXXXXXXX_. :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX= +
+XXXXXXXXXXXXXXXXXXX-  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_. _
+XXXXXXXXXXXXXXXXXXX- .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_  x
+XXXXXXXXXXXXXXXXXX+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX= +X
+XXXXXXXXXXXXXXXXXX- +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  +X
+XXXXXXXXXXXXXXXXX= -XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX= -XX
+XXXXXXXXXXXXXXXXX  =XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXX
+XXXXXXXXXXXXXXXX. :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_ XXXX
+XXXXXXXXXXXXXXX= .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX: XXXX
+XXXXXXXXXXXXXXX: =XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=  XXXX⠀⠀⠀⠀
       </pre>
     </td>
   </tr>

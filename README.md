@@ -1,31 +1,25 @@
 <div align="center">
   <img src="assets/banner.jpg" width="80%" alt="Mori Banner" />
-
   <br/><br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Kip+Sverlo;Python+Developer;Geek;Telegram+Bots+%26+Mini+Apps" alt="Typing SVG" />
   </a>
-
   <br/><br/>
-
   <a href="https://t.me/pipiskus228"><img src="https://img.shields.io/badge/Telegram-@pipiskus228-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:ovkirill75@gmail.com"><img src="https://img.shields.io/badge/Email-ovkirill75@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <h2 align="center">About Me</h2>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
       <p><b>Kip Sverlo</b> — a college graduate with a major in Information Systems and Programming.</p>
-      
       <p>I am a <b>Python developer</b>. I create Telegram bots and parsers. I'm an <b>Arch user</b> and I know <b>Bash</b>. I'm constantly improving my skills and understanding of real-world problems.</p>
-      
       <p>My goal is to write reliable and clean code and grow into a software engineer who creates long-lasting systems.</p>
     </td>
     <td width="45%" align="center" valign="middle">
-<pre style="background-color:transparent; color:#c9d1d9; padding:0; border:none; line-height:1.1; font-size: 10px; font-family: 'Courier New', monospace;">
+      <pre style="background-color: transparent; border: none; color: #c9d1d9; font-size: 11px; line-height: 1.2;">
 ⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⢠⡆⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠈⣷⣄⠀⠀⠀⠀⣾⣷⠀⠀⠀⠀⣠⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢿⠿⠃⠀⠀⠀⠉⠉⠁⠀⠀⠐⠿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -41,7 +35,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⢰⣷⡦⠀⠀⠀⢀⣀⣀⠀⠀⠀⢴⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣸⠟⠁⠀⠀⠀⠘⣿⡇⠀⠀⠀⠀⠙⢷⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠻⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀
-</pre>
+      </pre>
     </td>
   </tr>
 </table>
